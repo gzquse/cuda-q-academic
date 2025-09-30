@@ -10,6 +10,8 @@ To draw a classical analogy: the logic of a classical computer can be modeled us
 
 Designed for advanced users with a solid background in quantum mechanics and familiarity with Python programming, this series of notebooks guides you through GPU-accelerated quantum dynamics simulations. We start with the Jaynes-Cummings Hamiltonian to introduce the fundamental concepts and then progress to the Landau-Zener model to explore time-dependent Hamiltonian terms and custom operators.
 
+🎥 You can [watch a recording of the presentation](https://youtu.be/Hjp5hUt8OY8?feature=shared&t=4046) of these notebooks from the Quantum Device Workshop at UCLA in May 2025. 
+
 ## Learning Objectives
 
 * ***Simulate Complex Quantum Dynamics:*** Explore, implement, and analyze the time evolution of quantum systems using advanced models such as the Jaynes-Cummings and Landau-Zener models with GPU-accelerated computations.
